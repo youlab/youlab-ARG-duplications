@@ -1,4 +1,4 @@
-# youlab-ARG-duplications 
+# youlab-ARG-duplications
 ### by Rohan Maddamsetti and colleagues in Lingchong You Lab.
 #### Contact: rohan [dot] maddamsetti [at] Duke
 
@@ -41,7 +41,7 @@ https://mobileogdb.flsi.cloud.vt.edu/entries/database_download
 ## Mathematical modeling results.
 
 Figure 1ABC of the manuscript uses the Pluto notebook (in julia) for simulations:
-duplication-linear-ODE-model-v5.jl
+duplication-linear-ODE-model-v6.jl
 
 To run this notebook, open julia, and type:
 using Pluto; Pluto.run()
